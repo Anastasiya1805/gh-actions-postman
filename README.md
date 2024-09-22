@@ -1,1 +1,1 @@
-Repo with Postman tests
+[![CI](https://github.com/Anastasiya1805/gh-actions-postman/actions/workflows/blank.yml/badge.svg)](https://github.com/Anastasiya1805/gh-actions-postman/actions/workflows/blank.yml)Repo with Postman tests
